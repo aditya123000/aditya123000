@@ -60,7 +60,7 @@ https://github.com/aditya123000/CompareDevicesApp
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya123000&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya123000&show_icons=true)
 
 ---
 
