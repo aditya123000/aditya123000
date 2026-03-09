@@ -58,17 +58,6 @@ https://github.com/aditya123000/CompareDevicesApp
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya123000&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aditya123000&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
